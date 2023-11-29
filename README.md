@@ -1,1 +1,1 @@
-https://github.com/ShenaazMN/digital-agency-design-main.git 
+https://github.com/ShenaazMN/digital-agency-design
